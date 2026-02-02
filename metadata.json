@@ -1,0 +1,9 @@
+{
+  "name": "Final - Final One Legal Title Scrutiny ",
+  "description": "A comprehensive AI-powered platform integrating Mortgage Analysis, Legal Management, Work Tracking, and Knowledge Publishing into a single unified workspace.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
